@@ -83,12 +83,3 @@ El frontend está desarrollado en React, con componentes modulares y estilos CSS
 2. **Horarios Disponibles**: Gestión de horarios disponibles.
 3. **Horarios de Reserva**: Gestión de horarios reservados.
 4. **Reservaciones**: Gestión de reservaciones.
-
----
-
-## **Instrucciones de Configuración**
-
-### **Backend**
-1. Clona el repositorio del backend:
-   ```bash
-   git clone https://github.com/JJAR140201/prueba-riservi-backend.git
